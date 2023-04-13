@@ -1,7 +1,7 @@
 {
   "name": "testapp",
   "version": "0.1.0",
-  "homepage": "https://dhanur350.github.io/testapp1",
+  "homepage": "https://dhanur350.github.io/testapp",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
